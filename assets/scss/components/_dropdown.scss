@@ -1,0 +1,15 @@
+#headerbot {
+    .leftside {
+        .dropdown {
+            ul {
+                height: 0;
+                overflow: hidden;
+            }
+        }
+    }
+}
+
+.dropdownUlVisible {
+    height: 400px;
+    display: flex;
+}
